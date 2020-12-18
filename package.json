@@ -1,0 +1,21 @@
+{
+  "name": "reeacct-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "reeact-cli": "bin.js"
+  },
+  "homepage": "https://github.com/Li13/my-cli#readme",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "cross-spawn": "^7.0.0",
+    "mkdirp": "^0.5.1"
+  }
+}
