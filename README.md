@@ -2,7 +2,7 @@
 
 ## 介绍
 
-###脚手架的作用：为减少重复性工作而做的重复性工作
+###减少重复性工作，因为webpack的配置还是挺麻烦的，默认使用CNPM安装，装包速度比较快
 基于React17,package.json和webpack都已经配置好，
 安装配置好后，通过`reeact-cli create text-project`命令初始化工程。
 
